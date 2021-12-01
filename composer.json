@@ -3,13 +3,12 @@
   "description": "aliyun SDK test",
   "keywords": [
     "composer",
-    "aliyun",
-    "wy-aliyun"
+    "aliyun"
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "gauxp",
+      "name": "gauxp"
     }
   ],
   "autoload": {
