@@ -1,18 +1,15 @@
 {
-  "name": "pco/wy-aliyun",
-  "description": "php composer wy-aliyun",
+  "name": "gauxp/aliyunTest",
+  "description": "aliyun SDK test",
   "keywords": [
     "composer",
     "aliyun",
     "wy-aliyun"
   ],
-  "homepage": "http://git.wjh.com/pco/wy-aliyun",
   "license": "MIT",
   "authors": [
     {
-      "name": "pco",
-      "homepage": "http://git.wjh.com/pco",
-      "email": "pco@wangjiahuan.com"
+      "name": "gauxp",
     }
   ],
   "autoload": {
