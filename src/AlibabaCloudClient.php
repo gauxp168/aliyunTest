@@ -28,5 +28,5 @@ abstract class AlibabaCloudClient
         )->regionId($this->config->get('regionId'))->asDefaultClient();
     }
 
-    abstract function getProduct();
+    abstract protected function getProduct();
 }
